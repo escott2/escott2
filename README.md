@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Emily  
 :date: Coding since 2018.  
-:heartpulse: I love designing, building, and curating experiences.
+:heartpulse: I love designing, building, and curating experiences.    
 :brain: I've studied the mind, and I have a degree in Psychology.  
 :computer: I've studied technology, and I have a degree in CIS.  
 
